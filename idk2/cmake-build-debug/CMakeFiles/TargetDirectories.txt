@@ -1,0 +1,3 @@
+F:/student/IT2/idk2/cmake-build-debug/CMakeFiles/idk2.dir
+F:/student/IT2/idk2/cmake-build-debug/CMakeFiles/edit_cache.dir
+F:/student/IT2/idk2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
