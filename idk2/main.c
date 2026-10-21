@@ -60,7 +60,7 @@ bool detectionKeyboard(char *vysledna_cesta, size_t maximalni_delka) {
                     return true;
                 }
                 token = strtok(NULL, " \t\n\r");
-            } // OPRAVENO: Správné uzavření vnitřního while cyklu
+            } 
 
             is_keyboard = false;
             current_handlers[0] = '\0';
